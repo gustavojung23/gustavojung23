@@ -6,7 +6,7 @@
 
 - 👀 Antes de atuar na agência eu não tinha conhecimento do mundo front-end. Hoje me dedico diariamente para estar preparado para os desafios (nem sempre sai o que queremos 🤣)
 
-- 📚 Estudando JavaScript.
+- 📚 Estudando JavaScript e ReactJS.
 
 <!---
 gustavojung23/gustavojung23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
