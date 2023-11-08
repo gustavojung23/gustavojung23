@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>🖖 Sou Gustavo Jung, formado em Design Gráfico no [Centro Universitário FAG](https://www.fag.edu.br/)<br><br>🖥 Trabalho atualmente na [Agência E-commerce iConectiva](https://iconectiva.com.br/)<br><br>👀 Antes de atuar na agência eu não tinha conhecimento do mundo front-end. Hoje me dedico diariamente para estar preparado para os desafios (nem sempre sai o que queremos 🤣)<br><br>📚 Estudando JavaScript e ReactJS.<br><br>🚀 My repository in Vercel is [gustavojung23](https://vercel.com/gustavojung23)
+# 💫 About Me:<br>🖖 Sou Gustavo Jung, formado em Design Gráfico no [Centro Universitário FAG](https://www.fag.edu.br/)<br><br>🖥 Trabalho atualmente na [Agência E-commerce iConectiva](https://iconectiva.com.br/)<br><br>👀 Antes de atuar na agência eu não tinha conhecimento do mundo front-end. Hoje me dedico diariamente para estar preparado para os desafios (nem sempre sai o que queremos 🤣)<br><br>📚 Estudando JavaScript e TypeScript.<br><br>🚀 My repository in Vercel is [gustavojung23](https://vercel.com/gustavojung23)
 
 
 ## 🌐 Socials:
