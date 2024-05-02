@@ -1,7 +1,7 @@
 
 ## 🚀 Sobre mim
 Desenvolvedor Front End Júnior, 3 anos de experiência no segmento de e-commerce.
-Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na [UNIPAR](https://www.unipar.br/).
+Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas em [ISEPE - Rondon](https://iseperondon.com.br/).
 
 ## 🌎 GSWEB
 [GSWEB - Portfólio](https://portfolio-zeta-three-49.vercel.app/).
