@@ -7,6 +7,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas em [ISEPE - Rondon
 [GSWEB - Portfólio](https://portfolio-zeta-three-49.vercel.app/).
 
 **Front-end:** HTML, CSS, JavaScript e jQuery.
+**Back-end:** Estudando a linguagem GO.
 
 ## 💻 Projetos
 Implantações e-commerce na plataforma [Linx](https://www.linx.com.br/) e [Flexy](https://flexy.com.br/).
